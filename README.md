@@ -15,7 +15,7 @@ Hope you find this list useful.
 
 ***
 
-## Data Science/Statistics Books
+## Data Science/Statistics Books <a name="book"></a>
 
 ### Statistics Books
 
@@ -87,9 +87,9 @@ Hope you find this list useful.
 
 ***
 
-## Courses
+## Courses <a name="course"></a>
 
-[**R Studio Online Tutorial**](https://www.rstudio.com/online-learning/) 
+[**R Studio Online Tutorials**](https://www.rstudio.com/online-learning/) 
 
 [INFO 201A](https://canvas.uw.edu/courses/1100121) **Technical Foundations of Informatics** *University of Washington* ![lecture](lecture.png) ![readings](reading.png)
 
@@ -105,4 +105,6 @@ Hope you find this list useful.
 * [Syllabus](http://stat385.thecoatlessprofessor.com/syllabus/)
 * [Lectures/Slides](https://canvas.uw.edu/courses/1100121/files/folder/slides)
 * [Assignments](https://canvas.uw.edu/courses/1100121/assignments)
+
+
 
