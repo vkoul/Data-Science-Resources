@@ -107,4 +107,28 @@ Hope you find this list useful.
 * [Assignments](https://canvas.uw.edu/courses/1100121/assignments)
 
 
+[DS 101](http://web.stanford.edu/class/stats101/) **Data Science 101** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
+* The course provides a solid introduction to data science, both exposing students to computational tools they can proficently use to analyze data and exploring the conceptual challenges of inferential reasoning. Each module/week represents a new “data adventure,” analyzing real datasets, exploring different questions and trying out tools.
+
+* [Syllabus](http://web.stanford.edu/class/stats101/#topics)
+* [Lectures/Slides](http://web.stanford.edu/class/stats101/#modules-materials)
+* [Assignments](http://web.stanford.edu/class/stats101/#homework)
+
+
+[Stat 48N](http://statweb.stanford.edu/~sabatti/Stat48/) **Riding the data wave** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  How can we make sense of all the information we are acquiring about ourselves? During each week, we will consider a different data set to be summarized with a different goal. We will review analyses of similar problems carried out in the past and explore if and how the same tools can be useful today. We will pay attention to contemporary media (newspapers, blogs, etc.) to identify settings similar to the ones we are examining and critique the displays and summaries there documented
+
+* [Syllabus](http://statweb.stanford.edu/~sabatti/Stat48/index.html)
+* [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat48/index.html)
+* [Assignments](http://statweb.stanford.edu/~sabatti/Stat48/homework.html)
+
+
+[Stats 200](http://statweb.stanford.edu/~sabatti/Stat200/index.html) **Introduction to Statistical Inference** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  The class will introduce the students to formal statistical reasoning. Building on knowledge of probability and calculus, we will explore how limited noisy observations can be used to learn general characteristics of a population. We will study the basics of decision theory, including frequentist and Bayesian solutions to the "paradox of induction."
+
+* [Syllabus](http://statweb.stanford.edu/~sabatti/Stat200/syllabus.pdf)
+* [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat200/index.html)
+* [Assignments](http://statweb.stanford.edu/~sabatti/Stat200/homework.html)
