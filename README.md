@@ -19,71 +19,71 @@ Hope you find this list useful.
 
 ### Statistics Books
 
-[**Introduction to Probability and Statistics Using R**](http://ipsur.org/) *G. Jay Kerns- Youngstown State University* 
+* [**Introduction to Probability and Statistics Using R**](http://ipsur.org/) *G. Jay Kerns- Youngstown State University* 
 
-[**Introduction to Statistical Thinking (With R, Without Calculus)**](http://pluto.huji.ac.il/~msby/StatThink/index.html) *Benjamin Yakir, The Hebrew University of Jerusalem* 
+* [**Introduction to Statistical Thinking (With R, Without Calculus)**](http://pluto.huji.ac.il/~msby/StatThink/index.html) *Benjamin Yakir, The Hebrew University of Jerusalem* 
 
-[**Applied Statistics with R**](https://daviddalpiaz.github.io/appliedstats/) *David Dalpiaz - University of Illinois- UC* 
+* [**Applied Statistics with R**](https://daviddalpiaz.github.io/appliedstats/) *David Dalpiaz - University of Illinois- UC* 
 
-[**R for Statistical Learning**](https://daviddalpiaz.github.io/r4sl/) 
+* [**R for Statistical Learning**](https://daviddalpiaz.github.io/r4sl/) 
 *David Dalpiaz - University of Illinois- UC*
 
-[**R Companion to Statistics: Unlocking the Power of Data Book**](https://github.com/rpruim/Lock5withR) 
+* [**R Companion to Statistics: Unlocking the Power of Data Book**](https://github.com/rpruim/Lock5withR) 
 *Randall Pruim and Lana Park*
 
-[**R Companion to Introduction to Statistical Investigations (Preliminary Edition)**](https://github.com/rpruim/ISIwithR) 
+* [**R Companion to Introduction to Statistical Investigations (Preliminary Edition)**](https://github.com/rpruim/ISIwithR) 
 *Randall Pruim and Lana Park*
 
-[**Data Science Live Book**](https://livebook.datascienceheroes.com/) 
+* [**Data Science Live Book**](https://livebook.datascienceheroes.com/) 
 *Pablo Casas*
 
-[**ModernDive- An Introduction to Statistical and Data Sciences via R**](http://moderndive.com/) 
+* [**ModernDive- An Introduction to Statistical and Data Sciences via R**](http://moderndive.com/) 
 *Chester Ismay and Albert Y. Kim - DataCamp and  Amherst College *
 
-[**From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science**](http://heather.cs.ucdavis.edu/probstatbook) 
+* [**From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science**](http://heather.cs.ucdavis.edu/probstatbook) 
 *Prof. Norm Matloff- University of California, Davis*
 
-[**Introduction to Data Science**](https://rafalab.github.io/dsbook/) 
+* [**Introduction to Data Science**](https://rafalab.github.io/dsbook/) 
 *Rafael A. Irizarry - Harvard University*
 
-[**Technical Foundations of Informatics**](https://info201.github.io/) 
+* [**Technical Foundations of Informatics**](https://info201.github.io/) 
 *Michael Freeman and Joel Ross - University of Washington*
 
-[**R for Data Science**](http://r4ds.had.co.nz/) 
+* [**R for Data Science**](http://r4ds.had.co.nz/) 
 *Garrett Grolemund and Hadley Wickham - RStudio*
 
-[**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
+* [**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
 *Rob J Hyndman and George Athanasopoulos - Monash University*
 
-[**Text Mining with R**](http://tidytextmining.com/) *Julia Silge and David Robinson - StackOverflow*
+* [**Text Mining with R**](http://tidytextmining.com/) *Julia Silge and David Robinson - StackOverflow*
 
-[**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
+* [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
 
-[**List of Books on CRAN**](https://cran.r-project.org/other-docs.html) *Various - CRAN*
+* [**List of Books on CRAN**](https://cran.r-project.org/other-docs.html) *Various - CRAN*
 
-[**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
+* [**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
 
 
 ### R Tool Books
 
-[**An Introduction to R**](https://cran.r-project.org/doc/manuals/R-intro.pdf) 
+* [**An Introduction to R**](https://cran.r-project.org/doc/manuals/R-intro.pdf) 
 *W. N. Venables, D. M. Smith and the R Core Team*
 
 
-[**The R Inferno**](http://www.burns-stat.com/documents/books/the-r-inferno/) 
+* [**The R Inferno**](http://www.burns-stat.com/documents/books/the-r-inferno/) 
 *Patrick Burn*
 
 
-[**Advanced R**](http://adv-r.had.co.nz/) 
+* [**Advanced R**](http://adv-r.had.co.nz/) 
 *Hadley Wickham - RStudio*
 
-[**Statistical Programming Methods with R**](http://spm.thecoatlessprofessor.com/) *James Balamuta- UIUC*
+* [**Statistical Programming Methods with R**](http://spm.thecoatlessprofessor.com/) *James Balamuta- UIUC*
 
 
-[**Mastering Software Development in R**](https://bookdown.org/rdpeng/RProgDA/) *Roger D. Peng, Sean Kross, and Brooke Anderson- John Hopkins University*
+* [**Mastering Software Development in R**](https://bookdown.org/rdpeng/RProgDA/) *Roger D. Peng, Sean Kross, and Brooke Anderson- John Hopkins University*
 
 
-[**Efficient R programming**](https://csgillespie.github.io/efficientR/) *Colin Gillespie and Robin Lovelace- Newcastle University and Leeds Institute for Transport Studies*
+* [**Efficient R programming**](https://csgillespie.github.io/efficientR/) *Colin Gillespie and Robin Lovelace- Newcastle University and Leeds Institute for Transport Studies*
 
 ***
 
