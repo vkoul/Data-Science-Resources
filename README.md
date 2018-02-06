@@ -142,6 +142,12 @@ Hope you find this list useful.
 * [Assignments](https://cme195.github.io/homework)
 * [Final Project](https://cme195.github.io/project)
 
+[CME 252](http://bit.ly/2EmjyLe) **Introduction to Optimization** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  This course introduces mathematical optimization and modeling, with a focus on convex optimization. Topics include: varieties of mathematical optimization, convexity of functions and sets, convex optimization modeling with CVXPY, gradient descent and basic distributed optimization, in-depth examples from machine learning, statistics and other fields and applications of bi-convexity and non-convex gradient descent.
+
+* [Lectures/Slides](http://ajfriend.github.io/cme252/lecture_materials/)
+* [Assignments](http://ajfriend.github.io/cme252/homework/)
 
 
 
