@@ -132,3 +132,17 @@ Hope you find this list useful.
 * [Syllabus](http://statweb.stanford.edu/~sabatti/Stat200/syllabus.pdf)
 * [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat200/index.html)
 * [Assignments](http://statweb.stanford.edu/~sabatti/Stat200/homework.html)
+
+[CME/STATS 195](http://bit.ly/2ElJjv6) **Introduction to R** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  The goal of this short course is to familiarize students with R’s tools for scientific computing. Class lectures will have interactive elements, and assignments will be application-driven.Topics covered include basic data structures, file I/O, control structures, functions, visualizations, packages for statistical analysis.
+
+* [Syllabus](https://cme195.github.io/)
+* [Lectures/Slides](https://cme195.github.io/lectures)
+* [Assignments](https://cme195.github.io/homework)
+* [Final Project](https://cme195.github.io/project)
+
+
+
+
+
