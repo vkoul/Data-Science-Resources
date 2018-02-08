@@ -38,7 +38,10 @@ Hope you find this list useful.
 *Pablo Casas*
 
 * [**ModernDive- An Introduction to Statistical and Data Sciences via R**](http://moderndive.com/) 
-*Chester Ismay and Albert Y. Kim - DataCamp and  Amherst College *
+*Chester Ismay and Albert Y. Kim - DataCamp and  Amherst College*
+
+* [**An Introduction to Machine Learning with R**](https://lgatto.github.io/IntroMachineLearningWithR/index.html) 
+ *Laurent Gatto*
 
 * [**From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science**](http://heather.cs.ucdavis.edu/probstatbook) 
 *Prof. Norm Matloff- University of California, Davis*
