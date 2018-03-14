@@ -62,6 +62,8 @@ Hope you find this list useful.
 
 * [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
 
+* [**R and Social Science**](https://m-clark.github.io/docs/RSocialScience.pdf) *Michael Clark - Centre for Social Research*
+
 * [**List of Books on CRAN**](https://cran.r-project.org/other-docs.html) *Various - CRAN*
 
 * [**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
