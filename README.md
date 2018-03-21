@@ -71,24 +71,27 @@ Hope you find this list useful.
 
 ### R Tool Books
 
-* [**An Introduction to R**](https://cran.r-project.org/doc/manuals/R-intro.pdf) 
-*W. N. Venables, D. M. Smith and the R Core Team*
+* [**An Introduction to R**](https://cran.r-project.org/doc/manuals/R-intro.pdf) *W. N. Venables, D. M. Smith and the R Core Team*
 
+* [**The R Inferno**](http://www.burns-stat.com/documents/books/the-r-inferno/) *Patrick Burn*
 
-* [**The R Inferno**](http://www.burns-stat.com/documents/books/the-r-inferno/) 
-*Patrick Burn*
-
-
-* [**Advanced R**](http://adv-r.had.co.nz/) 
-*Hadley Wickham - RStudio*
+* [**Advanced R**](http://adv-r.had.co.nz/) *Hadley Wickham - RStudio*
 
 * [**Statistical Programming Methods with R**](http://spm.thecoatlessprofessor.com/) *James Balamuta- UIUC*
-
 
 * [**Mastering Software Development in R**](https://bookdown.org/rdpeng/RProgDA/) *Roger D. Peng, Sean Kross, and Brooke Anderson- John Hopkins University*
 
 
 * [**Efficient R programming**](https://csgillespie.github.io/efficientR/) *Colin Gillespie and Robin Lovelace- Newcastle University and Leeds Institute for Transport Studies*
+
+### DataViz Books
+
+* [**Fundamentals of Data Visualization**](http://serialmentor.com/dataviz/) *Claus O. Wilke*
+
+* [**Data Visualization: A practical introduction**](http://socviz.co/) *Kieran Healy- Duke University*
+
+* [**R for Social Sciences**](https://hbs-rcs.github.io/R_Intro-gapminder/) *Data Carpentry*
+
 
 ***
 
