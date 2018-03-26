@@ -34,11 +34,16 @@ Hope you find this list useful.
 * [**R Companion to Introduction to Statistical Investigations (Preliminary Edition)**](https://github.com/rpruim/ISIwithR) 
 *Randall Pruim and Lana Park*
 
-* [**Data Science Live Book**](https://livebook.datascienceheroes.com/) 
-*Pablo Casas*
-
 * [**ModernDive- An Introduction to Statistical and Data Sciences via R**](http://moderndive.com/) 
 *Chester Ismay and Albert Y. Kim - DataCamp and  Amherst College*
+
+* [**Principles of Econometrics with  R**](https://bookdown.org/ccolonescu/RPoE4//) *Constantin Colonescu*
+
+* [**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
+*Rob J Hyndman and George Athanasopoulos - Monash University*
+
+
+## Machine Learning Books
 
 * [**An Introduction to Machine Learning with R**](https://lgatto.github.io/IntroMachineLearningWithR/index.html) 
  *Laurent Gatto*
@@ -49,14 +54,14 @@ Hope you find this list useful.
 * [**Introduction to Data Science**](https://rafalab.github.io/dsbook/) 
 *Rafael A. Irizarry - Harvard University*
 
+* [**Data Science Live Book**](https://livebook.datascienceheroes.com/) 
+*Pablo Casas*
+
 * [**Technical Foundations of Informatics**](https://info201.github.io/) 
 *Michael Freeman and Joel Ross - University of Washington*
 
 * [**R for Data Science**](http://r4ds.had.co.nz/) 
 *Garrett Grolemund and Hadley Wickham - RStudio*
-
-* [**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
-*Rob J Hyndman and George Athanasopoulos - Monash University*
 
 * [**Text Mining with R**](http://tidytextmining.com/) *Julia Silge and David Robinson - StackOverflow*
 
@@ -150,12 +155,25 @@ Hope you find this list useful.
 * [Assignments](https://cme195.github.io/homework)
 * [Final Project](https://cme195.github.io/project)
 
+
+[6.S085](http://bit.ly/2IQ7wJz) **Statistics for Research Projects** *MIT* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  This class is a practical introduction to statistical modeling and experimental design, intended to provide essential skills for doing research. We'll cover basic techniques (e.g., hypothesis testing and regression models) for both traditional experiments and newer paradigms such as evaluating simulations. Students with research projects will be encouraged to share their experiences and project-specific questions.
+
+* [Syllabus](http://www.mit.edu/~6.s085/)
+* [Lectures/Slides](https://stuff.mit.edu/~6.s085/notes/)
+* [Assignments](http://www.mit.edu/~6.s085/ )
+* [Case Study](http://www.mit.edu/~6.s085/)
+
+
 [CME 252](http://bit.ly/2EmjyLe) **Introduction to Optimization** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 *  This course introduces mathematical optimization and modeling, with a focus on convex optimization. Topics include: varieties of mathematical optimization, convexity of functions and sets, convex optimization modeling with CVXPY, gradient descent and basic distributed optimization, in-depth examples from machine learning, statistics and other fields and applications of bi-convexity and non-convex gradient descent.
 
 * [Lectures/Slides](http://ajfriend.github.io/cme252/lecture_materials/)
 * [Assignments](http://ajfriend.github.io/cme252/homework/)
+
+
 
 
 
