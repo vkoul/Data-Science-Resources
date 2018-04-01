@@ -156,6 +156,16 @@ Hope you find this list useful.
 * [Final Project](https://cme195.github.io/project)
 
 
+[STAT 405](http://had.co.nz/stat405/) **Introduction to Data Analysis (using R, 2012)** *Rice University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* This course will teach you to be a data analyst. You will learn how to take a large dataset break up into manageable pieces and use a range of qualitative and quantitative tools to summarise it and learn what it has to tell. You will learn the importance of scepticism and curiosity, and how to communicate your findings. Each section of the course is motivated by a particular dataset, and you will gain experience working with a wide variety of data sources varying in size and quality.
+
+* [Syllabus](http://had.co.nz/stat405/)
+* [Lectures/Slides](http://had.co.nz/stat405/)
+* [Assignments](http://had.co.nz/stat405/)
+
+
+
 [6.S085](http://bit.ly/2IQ7wJz) **Statistics for Research Projects** *MIT* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 *  This class is a practical introduction to statistical modeling and experimental design, intended to provide essential skills for doing research. We'll cover basic techniques (e.g., hypothesis testing and regression models) for both traditional experiments and newer paradigms such as evaluating simulations. Students with research projects will be encouraged to share their experiences and project-specific questions.
@@ -164,6 +174,16 @@ Hope you find this list useful.
 * [Lectures/Slides](https://stuff.mit.edu/~6.s085/notes/)
 * [Assignments](http://www.mit.edu/~6.s085/ )
 * [Case Study](http://www.mit.edu/~6.s085/)
+
+
+[Statistics 36-350](http://www.stat.cmu.edu/~ryantibs/statcomp/) **Statistical Computing: Spring 2018** *Carnegie Mellon University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* Computational data analysis is an essential part of modern statistics. Competent statisticians must not just be able to run existing programs, but to understand the principles on which they work. They must also be able to read, modify, and write code, so that they can assemble the computational tools needed to solve their data analysis problems, rather than distorting problems to fit tools provided by others. This class is an introduction to statistically-oriented programming, targeted at statistics majors, without assuming extensive programming background
+
+* [Syllabus](http://www.stat.cmu.edu/~ryantibs/statcomp/syllabus.html)
+* [Lectures/Slides](http://www.stat.cmu.edu/~ryantibs/statcomp/)
+* [Assignments](http://www.stat.cmu.edu/~ryantibs/statcomp/)
+
 
 
 [CME 252](http://bit.ly/2EmjyLe) **Introduction to Optimization** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
