@@ -156,6 +156,23 @@ Hope you find this list useful.
 * [Final Project](https://cme195.github.io/project)
 
 
+[STATS 202](http://web.stanford.edu/class/stats202/) **Data Mining and Analysis** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* **Stats 202 is an introduction to Data Mining**. Students will:
+* Understand the distinction between supervised and unsupervised learning and be able to identify appropriate tools to answer different research questions.
+* Become familiar with basic unsupervised procedures including clustering and principal components analysis.
+* Become familiar with the following regression and classification algorithms: linear regression, ridge regression, the lasso, logistic regression, linear discriminant analysis, K-nearest neighbors, splines, generalized additive models, tree-based methods, and support vector machines.
+* Gain a practical appreciation of the bias-variance tradeoff and apply model selection methods based on cross-validation and bootstrapping to a prediction challenge.
+* Analyze a real dataset of moderate size using R.
+* Develop the computational skills for data wrangling, collaboration, and reproducible research.
+* Be exposed to other topics in machine learning, such as missing data, prediction using time series and relational data, non-linear dimensionality reduction techniques, web-based data visualizations, anomaly detection, and representation learning. 
+
+* [Syllabus](http://web.stanford.edu/class/stats202/)
+* [Lectures/Slides](http://web.stanford.edu/class/stats202/content/lectures.html)
+* [Assignments](http://web.stanford.edu/class/stats202/content/homework.html)
+* [Final Project- Kaggle](http://web.stanford.edu/class/stats202/content/kaggle.html)
+
+
 [STAT 405](http://had.co.nz/stat405/) **Introduction to Data Analysis (using R, 2012)** *Rice University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 * This course will teach you to be a data analyst. You will learn how to take a large dataset break up into manageable pieces and use a range of qualitative and quantitative tools to summarise it and learn what it has to tell. You will learn the importance of scepticism and curiosity, and how to communicate your findings. Each section of the course is motivated by a particular dataset, and you will gain experience working with a wide variety of data sources varying in size and quality.
