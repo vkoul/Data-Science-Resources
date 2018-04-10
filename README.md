@@ -1,7 +1,7 @@
 # Data Science Resource List 
 
 Learning new things has become more accesible now due to the plethora of material available online. This is particularly the case for Data Science and Machine Learning. Since I got interested in the field, I have come across a huge amount of learning material which I found immensely useful. This is an attempt to put them togther and make it accesible to others.    
-There are many wonderful resources which Professors have put up online and this is an attempt to catalogue these awesome resources. It has been already done by Prakhar on[`Github`](https://github.com/prakhar1989/awesome-courses), which is suited to `Software Engineering`, so the below list is an attempt to list down resources  pertaining to `Data Science` and focussed more on `R` software language. I plan to add more Python Material going forward. 
+There are many wonderful resources which Professors have put up online and this is an attempt to catalogue these awesome resources. It also has been done by Prakhar on[`Github`](https://github.com/prakhar1989/awesome-courses), which is suited to `Software Engineering`, so the below list is an attempt to list down resources  pertaining to `Data Science` and focussed more on `R` software language. I plan to add more Python Material going forward. 
 
 Hope you find this list useful. 
 
