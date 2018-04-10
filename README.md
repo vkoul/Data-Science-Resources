@@ -48,6 +48,8 @@ Hope you find this list useful.
 * [**An Introduction to Machine Learning with R**](https://lgatto.github.io/IntroMachineLearningWithR/index.html) 
  *Laurent Gatto*
 
+* [**Interpretable Machine Learning- A Guide for Making Black Box Models Explainable**](https://christophm.github.io/interpretable-ml-book/) *Christoph Molnar*
+
 * [**From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science**](http://heather.cs.ucdavis.edu/probstatbook) 
 *Prof. Norm Matloff- University of California, Davis*
 
@@ -64,6 +66,8 @@ Hope you find this list useful.
 *Garrett Grolemund and Hadley Wickham - RStudio*
 
 * [**Text Mining with R**](http://tidytextmining.com/) *Julia Silge and David Robinson - StackOverflow*
+
+## R in Other Fields
 
 * [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
 
