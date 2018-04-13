@@ -160,16 +160,11 @@ Hope you find this list useful.
 * [Final Project](https://cme195.github.io/project)
 
 
-[STATS 202](http://web.stanford.edu/class/stats202/) **Data Mining and Analysis** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+[STATS 202](http://web.stanford.edu/class/stats202/) **Data Mining and Analysis (using R)** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
-* **Stats 202 is an introduction to Data Mining**. Students will:
-* Understand the distinction between supervised and unsupervised learning and be able to identify appropriate tools to answer different research questions.
-* Become familiar with basic unsupervised procedures including clustering and principal components analysis.
-* Become familiar with the following regression and classification algorithms: linear regression, ridge regression, the lasso, logistic regression, linear discriminant analysis, K-nearest neighbors, splines, generalized additive models, tree-based methods, and support vector machines.
-* Gain a practical appreciation of the bias-variance tradeoff and apply model selection methods based on cross-validation and bootstrapping to a prediction challenge.
-* Analyze a real dataset of moderate size using R.
-* Develop the computational skills for data wrangling, collaboration, and reproducible research.
-* Be exposed to other topics in machine learning, such as missing data, prediction using time series and relational data, non-linear dimensionality reduction techniques, web-based data visualizations, anomaly detection, and representation learning. 
+* Stats 202 is an introduction to Data Mining. Students will:
+* Understand the distinction between supervised and unsupervised learning and be able to identify appropriate tools to answer different research questions.Become familiar with basic unsupervised procedures including clustering and principal components analysis.
+Become familiar with the following regression and classification algorithms: linear regression, ridge regression, the lasso, logistic regression, linear discriminant analysis, K-nearest neighbors, splines, generalized additive models, tree-based methods, and support vector machines.Gain a practical appreciation of the bias-variance tradeoff and apply model selection methods based on cross-validation and bootstrapping to a prediction challenge.Analyze a real dataset of moderate size using R.Develop the computational skills for data wrangling, collaboration, and reproducible research.Be exposed to other topics in machine learning, such as missing data, prediction using time series and relational data, non-linear dimensionality reduction techniques, web-based data visualizations, anomaly detection, and representation learning. 
 
 * [Syllabus](http://web.stanford.edu/class/stats202/)
 * [Lectures/Slides](http://web.stanford.edu/class/stats202/content/lectures.html)
@@ -206,7 +201,6 @@ Hope you find this list useful.
 * [Assignments](http://www.stat.cmu.edu/~ryantibs/statcomp/)
 
 
-
 [CME 252](http://bit.ly/2EmjyLe) **Introduction to Optimization** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 *  This course introduces mathematical optimization and modeling, with a focus on convex optimization. Topics include: varieties of mathematical optimization, convexity of functions and sets, convex optimization modeling with CVXPY, gradient descent and basic distributed optimization, in-depth examples from machine learning, statistics and other fields and applications of bi-convexity and non-convex gradient descent.
@@ -214,6 +208,13 @@ Hope you find this list useful.
 * [Lectures/Slides](http://ajfriend.github.io/cme252/lecture_materials/)
 * [Assignments](http://ajfriend.github.io/cme252/homework/)
 
+
+[CSC 321](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/) **Intro to Neural Networks and Machine Learning** *University of Toronto* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* This course gives an overview of both the foundational ideas and the recent advances in neural net algorithms. Roughly the first 2/3 of the course focuses on supervised learning -- training the network to produce a specified behavior when one has lots of labeled examples of that behavior. The last 1/3 focuses on unsupervised learning and reinforcement learning..
+
+* [Lectures/Slides](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
+* [Assignments](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 
 
 
