@@ -67,6 +67,9 @@ Hope you find this list useful.
 
 * [**Text Mining with R**](http://tidytextmining.com/) *Julia Silge and David Robinson - StackOverflow*
 
+* [**The Little Book of LDA**](https://ldabook.com/index.html) *Chris Tufts - StackOverflow*
+
+
 ## R in Other Fields
 
 * [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
