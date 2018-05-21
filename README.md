@@ -70,6 +70,16 @@ Hope you find this list useful.
 * [**The Little Book of LDA**](https://ldabook.com/index.html) *Chris Tufts - StackOverflow*
 
 
+### DataViz Books
+
+* [**Fundamentals of Data Visualization**](http://serialmentor.com/dataviz/) *Claus O. Wilke*
+
+* [**Data Visualization: A practical introduction**](http://socviz.co/) *Kieran Healy- Duke University*
+
+* [**R for Social Sciences**](https://hbs-rcs.github.io/R_Intro-gapminder/) *Data Carpentry*
+
+* [**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
+
 ## R in Other Fields
 
 * [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
@@ -78,7 +88,8 @@ Hope you find this list useful.
 
 * [**List of Books on CRAN**](https://cran.r-project.org/other-docs.html) *Various - CRAN*
 
-* [**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
+* [**Geocomputation with R**](https://geocompr.robinlovelace.net/) *Robin Lovelace, Jakub Nowosad, Jannes Muenchow*
+
 
 
 ### R Tool Books
@@ -93,16 +104,9 @@ Hope you find this list useful.
 
 * [**Mastering Software Development in R**](https://bookdown.org/rdpeng/RProgDA/) *Roger D. Peng, Sean Kross, and Brooke Anderson- John Hopkins University*
 
+* [**Advanced R Course**](https://privefl.github.io/advr38book/) *Florian Privé- Grenoble, France*
 
 * [**Efficient R programming**](https://csgillespie.github.io/efficientR/) *Colin Gillespie and Robin Lovelace- Newcastle University and Leeds Institute for Transport Studies*
-
-### DataViz Books
-
-* [**Fundamentals of Data Visualization**](http://serialmentor.com/dataviz/) *Claus O. Wilke*
-
-* [**Data Visualization: A practical introduction**](http://socviz.co/) *Kieran Healy- Duke University*
-
-* [**R for Social Sciences**](https://hbs-rcs.github.io/R_Intro-gapminder/) *Data Carpentry*
 
 
 ***
@@ -161,6 +165,16 @@ Hope you find this list useful.
 * [Lectures/Slides](https://cme195.github.io/lectures)
 * [Assignments](https://cme195.github.io/homework)
 * [Final Project](https://cme195.github.io/project)
+
+
+[Statistics 585X](http://bit.ly/2ElJjv6) **Data Technologies for Statistical Analysis** * Iowa State University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  Not all data lives in nice, clean spreadsheets, not all data fits in a computer’s main memory. As statisticians we cannot always rely on other people and sciences to get the data into formats that we can deal with: we will discuss aspects of statistical computing as they are relevant for data analysis. Read and work with data in different formats: flat files, databases, web technologies. Elements of literate programming help us with making our workflow transparent and analyses reproducible. We will discuss communication of results in form of R packages and interactive web application.
+
+* [Syllabus](https://stat585-at-isu.github.io/syllabus.pdf)
+* [Lectures/Slides](https://stat585-at-isu.github.io/syllabus.html)
+* [Assignments](https://stat585-at-isu.github.io/labs.html)
+* [Final Project](https://stat585-at-isu.github.io/projects.html)
 
 
 [STATS 202](http://web.stanford.edu/class/stats202/) **Data Mining and Analysis (using R)** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
