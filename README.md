@@ -42,6 +42,9 @@ Hope you find this list useful.
 * [**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
 *Rob J Hyndman and George Athanasopoulos - Monash University*
 
+* [**Probability Theory (For Scientists and Engineers)**](https://betanalpha.github.io/assets/case_studies/probability_theory.html) 
+*Michael Betancourt*
+
 
 ### Machine Learning Books
 
@@ -119,6 +122,12 @@ Hope you find this list useful.
 
 [**R Studio Online Tutorials**](https://www.rstudio.com/online-learning/) 
 
+[**Programming with R**](https://swcarpentry.github.io/r-novice-inflammation/) *Software Carpentry Foundation*
+
+[**Courses taught by Hadley Wickham**](http://courses.had.co.nz/) *H. Wickham*
+
+
+
 [INFO 201A](https://canvas.uw.edu/courses/1100121) **Technical Foundations of Informatics** *University of Washington* ![lecture](lecture.png) ![readings](reading.png)
 
 * This course introduces fundamental tools and technologies necessary to transform data into knowledge. We'll cover skill associated with each component of the information lifecycle, including the collection, storage, analysis, and visualization of data. Core competencies underlying this process, including functional programming, use of databases, data wrangling, version control, and command line proficiency, are acquired through real-world data-driven assignments
@@ -151,6 +160,15 @@ Hope you find this list useful.
 * [Syllabus](http://statweb.stanford.edu/~sabatti/Stat48/index.html)
 * [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat48/index.html)
 * [Assignments](http://statweb.stanford.edu/~sabatti/Stat48/homework.html)
+
+
+[DS100](http://www.ds100.org/fa17/) **Principles and Techniques of Data Science** *UC- Berkley* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* Combining data, computation, and inferential thinking, data science is redefining how people and organizations solve challenging problems and understand their world. This intermediate level class bridges between Data8 and upper division computer science and statistics courses as well as methods courses in other fields
+
+* [Syllabus](http://www.ds100.org/fa17/syllabus)
+* [Material](http://www.ds100.org/fa17/materials)
+* [Assignments](http://www.ds100.org/fa17/syllabus)
 
 
 [Stats 200](http://statweb.stanford.edu/~sabatti/Stat200/index.html) **Introduction to Statistical Inference** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
@@ -220,6 +238,34 @@ Become familiar with the following regression and classification algorithms: lin
 * [Syllabus](http://www.stat.cmu.edu/~ryantibs/statcomp/syllabus.html)
 * [Lectures/Slides](http://www.stat.cmu.edu/~ryantibs/statcomp/)
 * [Assignments](http://www.stat.cmu.edu/~ryantibs/statcomp/)
+
+
+[Statistics 231](https://web.stanford.edu/class/cs229t/index.html) **Statistical Learning Theory** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* Uncover common statistical principles underlying diverse array of machine learning techniques.
+  * Linear algebra
+  * Probability
+  * Optimization
+
+* [Syllabus](https://web.stanford.edu/class/cs229t/syllabus.html)
+* [Lectures/Slides](https://web.stanford.edu/class/cs229t/lectures.html)
+* [Assignments](https://web.stanford.edu/class/cs229t/homework.html)
+
+
+
+
+
+
+[Sta 323](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#schedule) **Statistical Programming(2018)** *Duke University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* TBU
+
+* [Syllabus](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#syllabus)
+* [Lectures/Slides](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#syllabus)
+* [Assignments](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#syllabus)
+
+
+
 
 
 [STATS 401](https://ionides.github.io/401w18/) **Applied Statistical Methods II** *University of Michigan* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
