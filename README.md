@@ -43,15 +43,10 @@ Hope you find this list useful.
 *Rob J Hyndman and George Athanasopoulos - Monash University*
 
 
-## Machine Learning Books
+### Machine Learning Books
 
 * [**An Introduction to Machine Learning with R**](https://lgatto.github.io/IntroMachineLearningWithR/index.html) 
  *Laurent Gatto*
-
-* [**Interpretable Machine Learning- A Guide for Making Black Box Models Explainable**](https://christophm.github.io/interpretable-ml-book/) *Christoph Molnar*
-
-* [**From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science**](http://heather.cs.ucdavis.edu/probstatbook) 
-*Prof. Norm Matloff- University of California, Davis*
 
 * [**Introduction to Data Science**](https://rafalab.github.io/dsbook/) 
 *Rafael A. Irizarry - Harvard University*
@@ -59,11 +54,18 @@ Hope you find this list useful.
 * [**Data Science Live Book**](https://livebook.datascienceheroes.com/) 
 *Pablo Casas*
 
-* [**Technical Foundations of Informatics**](https://info201.github.io/) 
-*Michael Freeman and Joel Ross - University of Washington*
-
 * [**R for Data Science**](http://r4ds.had.co.nz/) 
 *Garrett Grolemund and Hadley Wickham - RStudio*
+
+* [**Feature Engineering and Selection: A Practical Approach for Predictive Models**](http://www.feat.engineering/index.html) *Max Kuhn and Kjell Johnson- RStudio*
+
+* [**Interpretable Machine Learning- A Guide for Making Black Box Models Explainable**](https://christophm.github.io/interpretable-ml-book/) *Christoph Molnar*
+
+* [**From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science**](http://heather.cs.ucdavis.edu/probstatbook) 
+*Prof. Norm Matloff- University of California, Davis*
+
+* [**Technical Foundations of Informatics**](https://info201.github.io/) 
+*Michael Freeman and Joel Ross - University of Washington*
 
 * [**Text Mining with R**](http://tidytextmining.com/) *Julia Silge and David Robinson - StackOverflow*
 
@@ -80,7 +82,7 @@ Hope you find this list useful.
 
 * [**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
 
-## R in Other Fields
+### R in Other Fields
 
 * [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
 
@@ -107,6 +109,8 @@ Hope you find this list useful.
 * [**Advanced R Course**](https://privefl.github.io/advr38book/) *Florian Privé- Grenoble, France*
 
 * [**Efficient R programming**](https://csgillespie.github.io/efficientR/) *Colin Gillespie and Robin Lovelace- Newcastle University and Leeds Institute for Transport Studies*
+
+* [**Pack YouR Code**](http://www.gastonsanchez.com/packyourcode/) *Gaston Sanchez- University of California Berkley*
 
 
 ***
@@ -167,7 +171,7 @@ Hope you find this list useful.
 * [Final Project](https://cme195.github.io/project)
 
 
-[Statistics 585X](http://bit.ly/2ElJjv6) **Data Technologies for Statistical Analysis** * Iowa State University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+[Statistics 585X](http://bit.ly/2ElJjv6) **Data Technologies for Statistical Analysis** *Iowa State University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 *  Not all data lives in nice, clean spreadsheets, not all data fits in a computer’s main memory. As statisticians we cannot always rely on other people and sciences to get the data into formats that we can deal with: we will discuss aspects of statistical computing as they are relevant for data analysis. Read and work with data in different formats: flat files, databases, web technologies. Elements of literate programming help us with making our workflow transparent and analyses reproducible. We will discuss communication of results in form of R packages and interactive web application.
 
@@ -216,6 +220,42 @@ Become familiar with the following regression and classification algorithms: lin
 * [Syllabus](http://www.stat.cmu.edu/~ryantibs/statcomp/syllabus.html)
 * [Lectures/Slides](http://www.stat.cmu.edu/~ryantibs/statcomp/)
 * [Assignments](http://www.stat.cmu.edu/~ryantibs/statcomp/)
+
+
+[STATS 401](https://ionides.github.io/401w18/) **Applied Statistical Methods II** *University of Michigan* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* An intermediate course in applied statistics, covering a range of topics in modeling and analysis of data including: review of simple linear regression, two-sample problems, one-way analysis of variance; multiple linear regression, diagnostics and model selection; two-way analysis of variance, multiple comparisons, and other selected topics
+
+* [Lectures/Slides](https://ionides.github.io/401w18/#class-notes)
+* [Assignments](https://ionides.github.io/401w18/#homework-assignments)
+* [Lab Material](https://ionides.github.io/401w18/#lab-materials)
+
+
+[Stats 531](https://ionides.github.io/531w16/) **Analysis of Time Series** *University of Michigan* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* This course gives an introduction to time series analysis using time domain methods and frequency domain methods. The goal is to acquire the theoretical and computational skills required to investigate data collected as a time series. The first half of the course will develop classical time series methodology, including auto-regressive moving average (ARMA) models, regression with ARMA errors, and estimation of the spectral density.
+
+* [Lectures/Slides](https://ionides.github.io/531w16/#class-notes)
+* [Assignments](https://ionides.github.io/531w16/#homework-assignments)
+* [Projects](https://ionides.github.io/531w16/#midterm-project)
+
+
+[AGRON 590RD](http://agron590-isu.github.io/index.html) **Data Stewardship for Earth Systems Scientists** *Iowa State University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* Learn how to clearly organize, track, and communicate data-based work, collect and house data through analysis and publication,
+collaborate in a reproducible way, model data structures and wrangle data, and complete the entire research cycle in a responsible way.
+
+* [Syllabus](http://agron590-isu.github.io/materials/week_00/syllabus/syllabus.pdf)
+* [Lectures/Slides](http://agron590-isu.github.io/syllabus.html)
+* [Assignments](http://agron590-isu.github.io/syllabus.html)
+
+[MPA 635](https://datavizf17.classes.andrewheiss.com/) **Data Visualization** *Brigham Young University.* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* Become literate in data and graphic design principles, (2) an ethical data communicator, and (3) a collaborative sharer by producing beautiful, powerful, and clear visualizations of your own data
+
+* [Syllabus](https://datavizf17.classes.andrewheiss.com/syllabus/)
+* [Lectures/Slides](https://datavizf17.classes.andrewheiss.com/schedule/)
+* [Assignments](https://datavizf17.classes.andrewheiss.com/assignments/)
 
 
 [CME 252](http://bit.ly/2EmjyLe) **Introduction to Optimization** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
