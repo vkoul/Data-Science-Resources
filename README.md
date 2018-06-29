@@ -220,6 +220,14 @@ Become familiar with the following regression and classification algorithms: lin
 * [Assignments](http://had.co.nz/stat405/)
 
 
+[STATS 203](http://statweb.stanford.edu/~jtaylo/courses/stats203/) **Introduction to Regression Models and Analysis of Variance** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* The course is intended to be a (non-exhaustive) survey of regression techniques from both a theoretical and applied perspective.
+
+* [Syllabus](http://statweb.stanford.edu/~jtaylo/courses/stats203/notes/)
+* [Lectures/Slides](http://statweb.stanford.edu/~jtaylo/courses/stats203/notes/)
+* [Assignments](http://statweb.stanford.edu/~jtaylo/courses/stats203/assignments/)
+
 
 [6.S085](http://bit.ly/2IQ7wJz) **Statistics for Research Projects** *MIT* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
@@ -253,9 +261,6 @@ Become familiar with the following regression and classification algorithms: lin
 
 
 
-
-
-
 [Sta 323](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#schedule) **Statistical Programming(2018)** *Duke University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 * TBU
@@ -263,9 +268,6 @@ Become familiar with the following regression and classification algorithms: lin
 * [Syllabus](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#syllabus)
 * [Lectures/Slides](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#syllabus)
 * [Assignments](https://www2.stat.duke.edu/~cr173/Sta323_Sp18/#syllabus)
-
-
-
 
 
 [STATS 401](https://ionides.github.io/401w18/) **Applied Statistical Methods II** *University of Michigan* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
@@ -295,6 +297,7 @@ collaborate in a reproducible way, model data structures and wrangle data, and c
 * [Lectures/Slides](http://agron590-isu.github.io/syllabus.html)
 * [Assignments](http://agron590-isu.github.io/syllabus.html)
 
+
 [MPA 635](https://datavizf17.classes.andrewheiss.com/) **Data Visualization** *Brigham Young University.* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 * Become literate in data and graphic design principles, (2) an ethical data communicator, and (3) a collaborative sharer by producing beautiful, powerful, and clear visualizations of your own data
@@ -319,6 +322,13 @@ collaborate in a reproducible way, model data structures and wrangle data, and c
 * [Lectures/Slides](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 * [Assignments](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 
+
+[EECS 349](http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/) **Machine Learning- Spring 2018** *Northwestern University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+
+* [Lectures/Slides](http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/)
+  * The lecture notes are of very good quality.
+* [Assignments](http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/)
 
 
 
