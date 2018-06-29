@@ -146,13 +146,6 @@ Hope you find this list useful.
 
 
 
-[STAT 385](http://stat385.thecoatlessprofessor.com/) **Statistics Programming Methods** *UIUC* ![lecture](lecture.png) ![readings](reading.png)
-
-* [Syllabus](http://stat385.thecoatlessprofessor.com/syllabus/)
-* [Lectures/Slides](https://canvas.uw.edu/courses/1100121/files/folder/slides)
-* [Assignments](https://canvas.uw.edu/courses/1100121/assignments)
-
-
 [DS 101](http://web.stanford.edu/class/stats101/) **Data Science 101** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 * The course provides a solid introduction to data science, both exposing students to computational tools they can proficently use to analyze data and exploring the conceptual challenges of inferential reasoning. Each module/week represents a new “data adventure,” analyzing real datasets, exploring different questions and trying out tools.
@@ -160,6 +153,16 @@ Hope you find this list useful.
 * [Syllabus](http://web.stanford.edu/class/stats101/#topics)
 * [Lectures/Slides](http://web.stanford.edu/class/stats101/#modules-materials)
 * [Assignments](http://web.stanford.edu/class/stats101/#homework)
+
+[CME/STATS 195](http://bit.ly/2ElJjv6) **Introduction to R** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  The goal of this short course is to familiarize students with R’s tools for scientific computing. Class lectures will have interactive elements, and assignments will be application-driven.Topics covered include basic data structures, file I/O, control structures, functions, visualizations, packages for statistical analysis.
+
+* [Syllabus](https://cme195.github.io/)
+* [Lectures/Slides](https://cme195.github.io/lectures)
+* [Assignments](https://cme195.github.io/homework)
+* [Final Project](https://cme195.github.io/project)
+
 
 
 [Stat 48N](http://statweb.stanford.edu/~sabatti/Stat48/) **Riding the data wave** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
@@ -188,14 +191,24 @@ Hope you find this list useful.
 * [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat200/index.html)
 * [Assignments](http://statweb.stanford.edu/~sabatti/Stat200/homework.html)
 
-[CME/STATS 195](http://bit.ly/2ElJjv6) **Introduction to R** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
-*  The goal of this short course is to familiarize students with R’s tools for scientific computing. Class lectures will have interactive elements, and assignments will be application-driven.Topics covered include basic data structures, file I/O, control structures, functions, visualizations, packages for statistical analysis.
+[STAT 385](http://stat385.thecoatlessprofessor.com/) **Statistics Programming Methods** *UIUC* ![lecture](lecture.png) ![readings](reading.png)
 
-* [Syllabus](https://cme195.github.io/)
-* [Lectures/Slides](https://cme195.github.io/lectures)
-* [Assignments](https://cme195.github.io/homework)
-* [Final Project](https://cme195.github.io/project)
+* [Syllabus](http://stat385.thecoatlessprofessor.com/syllabus/)
+* [Lectures/Slides](http://stat385.thecoatlessprofessor.com/schedule/)
+* [Assignments](http://stat385.thecoatlessprofessor.com/schedule/)
+
+
+[DSO 530](https://www.alsharif.info/iom530) **Applied Modern Statistical Learning Techniques** *Univ. of Southern California* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  This course aims to go far beyond the classical statistical methods, such as linear regression, that are introduced in GSBA 524
+
+* [Syllabus](https://docs.wixstatic.com/ugd/6d8e3a_6db28f9a03c4436a872c840f60f96af6.pdf)
+* [Lectures/Slides](https://www.alsharif.info/iom530)
+  * The course follows `ISLR` and provides succinct summary of the book in the slides
+* [Assignments](https://www.alsharif.info/iom530)
+* [Videos](https://www.alsharif.info/iom530)
+
 
 
 [Statistics 585X](http://bit.ly/2ElJjv6) **Data Technologies for Statistical Analysis** *Iowa State University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
