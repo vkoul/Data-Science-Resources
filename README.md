@@ -115,6 +115,15 @@ Hope you find this list useful.
 
 * [**Pack YouR Code**](http://www.gastonsanchez.com/packyourcode/) *Gaston Sanchez- University of California Berkley*
 
+### Other R resources
+
+* [**R user group Oxford**](https://r-oxford.github.io/): Dedicated to bringing together area practitioners of R to exchange knowledge, inspire new users, and spur the adoption of R for innovative research and commercial applications.  
+
+* [**Awesome Blogdown**](https://awesome-blogdown.com/) : Awesome curated list of blogs built using blogdown.
+
+* [**DALEX: Descriptive mAchine Learning EXplanations**](https://pbiecek.github.io/DALEX/index.html): In many applications we need to know, understand or prove how input variables are used in the model and what impact do they have on final model prediction. DALEX is a set of tools that help to understand how complex models are working
+
+* [**aRrgh:a newcomer’s (angry) guide to R**](http://arrgh.tim-smith.us/) 
 
 ***
 
