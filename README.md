@@ -34,6 +34,11 @@ Hope you find this list useful.
 * [**R Companion to Introduction to Statistical Investigations (Preliminary Edition)**](https://github.com/rpruim/ISIwithR) 
 *Randall Pruim and Lana Park*
 
+* [**Introduction to the Practice of Statistics (6th edition) in R**](https://nhorton.people.amherst.edu/ips6e/) 
+*Nicholas Horton and Ben Baumer*
+
+* [**Stats: Data and Models (4th edition) in R**](https://nhorton.people.amherst.edu/sdm4/) *De Veaux, Velleman, and Bock*
+
 * [**ModernDive- An Introduction to Statistical and Data Sciences via R**](http://moderndive.com/) 
 *Chester Ismay and Albert Y. Kim - DataCamp and  Amherst College*
 
@@ -191,12 +196,28 @@ Hope you find this list useful.
 * [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat200/index.html)
 * [Assignments](http://statweb.stanford.edu/~sabatti/Stat200/homework.html)
 
+[STAT 405](http://had.co.nz/stat405/) **Introduction to Data Analysis (using R, 2012)** *Rice University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* This course will teach you to be a data analyst. You will learn how to take a large dataset break up into manageable pieces and use a range of qualitative and quantitative tools to summarise it and learn what it has to tell. You will learn the importance of scepticism and curiosity, and how to communicate your findings. Each section of the course is motivated by a particular dataset, and you will gain experience working with a wide variety of data sources varying in size and quality.
+
+* [Syllabus](http://had.co.nz/stat405/)
+* [Lectures/Slides](http://had.co.nz/stat405/)
+* [Assignments](http://had.co.nz/stat405/)
+
 
 [STAT 385](http://stat385.thecoatlessprofessor.com/) **Statistics Programming Methods** *UIUC* ![lecture](lecture.png) ![readings](reading.png)
 
 * [Syllabus](http://stat385.thecoatlessprofessor.com/syllabus/)
 * [Lectures/Slides](http://stat385.thecoatlessprofessor.com/schedule/)
 * [Assignments](http://stat385.thecoatlessprofessor.com/schedule/)
+
+
+[STAT 149](http://www.markirwin.net/stat149/) **Generalized Linear Models** *Harvard University* ![lecture](lecture.png) ![readings](reading.png)
+* An introduction to methods for analyzing categorical data. Emphasis will be on understanding models and applying them to datasets. Topics include visualizing categorical data, analysis of contingency tables, odds ratios, log-linear models, generalized linear models, logistic regression, Poisson regression and model diagnostics. Examples drawn from many fields, including biology, medicine and the social sciences.
+
+* [Syllabus](http://www.markirwin.net/stat149/Syllabus.pdf)
+* [Lectures/Slides](http://www.markirwin.net/stat149/lecture.html)
+* [Assignments](http://www.markirwin.net/stat149/assignments.html)
 
 
 [DSO 530](https://www.alsharif.info/iom530) **Applied Modern Statistical Learning Techniques** *Univ. of Southern California* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
@@ -209,6 +230,16 @@ Hope you find this list useful.
 * [Assignments](https://www.alsharif.info/iom530)
 * [Videos](https://www.alsharif.info/iom530)
 
+
+[STAT 320](https://www2.stat.duke.edu/courses/Spring14/sta320.01/) **Design and Analysis of Causal Studies** *Duke University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  Presents an overview of methods for estimating causal effects: how to answer the question of “What is the effect of A on B?” Includes discussion of randomized designs, but with more emphasis on alternative designs and methods for when randomization is infeasible: matching methods, propensity scores, longitudinal treatments, regression discontinuity, instrumental variables, and principal stratification. Methods are motivated by examples from social sciences, policy and health sciences. 
+
+* [Syllabus](https://www2.stat.duke.edu/courses/Spring14/sta320.01/SyllabusS14.pdf)
+* [Lectures/Slides](https://www2.stat.duke.edu/courses/Spring14/sta320.01/index.html)
+* [Assignments](https://www2.stat.duke.edu/courses/Spring14/sta320.01/index.html)
+
+* [Webpage of Dr. Kari Lock Morgan for other course links](https://www2.stat.duke.edu/~kfl5/teaching.htm)
 
 
 [Statistics 585X](http://bit.ly/2ElJjv6) **Data Technologies for Statistical Analysis** *Iowa State University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
@@ -232,14 +263,6 @@ Become familiar with the following regression and classification algorithms: lin
 * [Assignments](http://web.stanford.edu/class/stats202/content/homework.html)
 * [Final Project- Kaggle](http://web.stanford.edu/class/stats202/content/kaggle.html)
 
-
-[STAT 405](http://had.co.nz/stat405/) **Introduction to Data Analysis (using R, 2012)** *Rice University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
-
-* This course will teach you to be a data analyst. You will learn how to take a large dataset break up into manageable pieces and use a range of qualitative and quantitative tools to summarise it and learn what it has to tell. You will learn the importance of scepticism and curiosity, and how to communicate your findings. Each section of the course is motivated by a particular dataset, and you will gain experience working with a wide variety of data sources varying in size and quality.
-
-* [Syllabus](http://had.co.nz/stat405/)
-* [Lectures/Slides](http://had.co.nz/stat405/)
-* [Assignments](http://had.co.nz/stat405/)
 
 
 [STATS 203](http://statweb.stanford.edu/~jtaylo/courses/stats203/) **Introduction to Regression Models and Analysis of Variance** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
