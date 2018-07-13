@@ -21,6 +21,8 @@ Hope you find this list useful.
 
 * [**Introduction to Probability and Statistics Using R**](http://ipsur.org/) *G. Jay Kerns- Youngstown State University* 
 
+* [**Theory Meets Data**](http://prob140.org/assets/tmd_11_18_2017.pdf) *Ani Adhikari- Univ. of California Berkeley* 
+
 * [**Introduction to Statistical Thinking (With R, Without Calculus)**](http://pluto.huji.ac.il/~msby/StatThink/index.html) *Benjamin Yakir, The Hebrew University of Jerusalem* 
 
 * [**Applied Statistics with R**](https://daviddalpiaz.github.io/appliedstats/) *David Dalpiaz - University of Illinois- UC* 
@@ -47,8 +49,12 @@ Hope you find this list useful.
 * [**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
 *Rob J Hyndman and George Athanasopoulos - Monash University*
 
-* [**Probability Theory (For Scientists and Engineers)**](https://betanalpha.github.io/assets/case_studies/probability_theory.html) 
-*Michael Betancourt*
+* [**Causal Inference Book- Draft**](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) 
+*Miguel Hernan and Jamie Robins - Harvard University*
+
+* [**Computational and Inferential Thinking- (Python based)**](https://www.inferentialthinking.com/chapters/intro) 
+*Ani Adhikari and John DeNero - UC- Berkeley*
+
 
 
 ### Machine Learning Books
@@ -90,6 +96,7 @@ Hope you find this list useful.
 
 * [**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
 
+
 ### R in Other Fields
 
 * [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
@@ -99,6 +106,9 @@ Hope you find this list useful.
 * [**List of Books on CRAN**](https://cran.r-project.org/other-docs.html) *Various - CRAN*
 
 * [**Geocomputation with R**](https://geocompr.robinlovelace.net/) *Robin Lovelace, Jakub Nowosad, Jannes Muenchow*
+
+* [**Sociospatial Data Science**](https://chris-prener.github.io/SSDSBook/) *Christopher Prener, Ph.D.*
+
 
 
 
@@ -140,15 +150,19 @@ Hope you find this list useful.
 
 [**Courses taught by Hadley Wickham**](http://courses.had.co.nz/) *H. Wickham*
 
+[**Statistics courses offered in Harvard**](https://statistics.fas.harvard.edu/statistics-courses) *Harvard University*
 
 
-[INFO 201A](https://canvas.uw.edu/courses/1100121) **Technical Foundations of Informatics** *University of Washington* ![lecture](lecture.png) ![readings](reading.png)
 
-* This course introduces fundamental tools and technologies necessary to transform data into knowledge. We'll cover skill associated with each component of the information lifecycle, including the collection, storage, analysis, and visualization of data. Core competencies underlying this process, including functional programming, use of databases, data wrangling, version control, and command line proficiency, are acquired through real-world data-driven assignments
+[PROB 140](http://prob140.org/) **Probability for Data Science** *UC- Berkeley* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
-* [Lectures/Slides](https://canvas.uw.edu/courses/1100121/files/folder/slides)
-* [Assignments](https://canvas.uw.edu/courses/1100121/assignments)
+* Prob 140 (formally Statistics 140 or STAT 140) is a probability course for undergraduates who have taken Data 8, have a math background, and wish to go deeper into the theory of data science.
+The emphasis on simulation and the bootstrap in Data 8 gives students a concrete sense of randomness and sampling variability. Prob 140 will capitalize on this. Because of the students’ backgrounds, Prob 140 will move swiftly over basics, avoid approximations that are unnecessary when SciPy is at hand, and replace some of the routine calculus by symbolic math done in SymPy. This will create time to focus on the more demanding concepts that are part of the theoretical foundations of data science.
 
+* [Syllabus](http://prob140.org/)
+* [Textbook](https://textbook.prob140.org/) 
+* [Lectures/Slides](http://prob140.org/)
+* [Assignments](http://prob140.org/)
 
 
 [DS 101](http://web.stanford.edu/class/stats101/) **Data Science 101** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
@@ -195,6 +209,17 @@ Hope you find this list useful.
 * [Syllabus](http://statweb.stanford.edu/~sabatti/Stat200/syllabus.pdf)
 * [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat200/index.html)
 * [Assignments](http://statweb.stanford.edu/~sabatti/Stat200/homework.html)
+
+
+[INFO 201A](https://canvas.uw.edu/courses/1100121) **Technical Foundations of Informatics** *University of Washington* ![lecture](lecture.png) ![readings](reading.png)
+
+* This course introduces fundamental tools and technologies necessary to transform data into knowledge. We'll cover skill associated with each component of the information lifecycle, including the collection, storage, analysis, and visualization of data. Core competencies underlying this process, including functional programming, use of databases, data wrangling, version control, and command line proficiency, are acquired through real-world data-driven assignments
+
+* [Lectures/Slides](https://canvas.uw.edu/courses/1100121/files/folder/slides)
+* [Assignments](https://canvas.uw.edu/courses/1100121/assignments)
+
+
+
 
 [STAT 405](http://had.co.nz/stat405/) **Introduction to Data Analysis (using R, 2012)** *Rice University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
@@ -374,6 +399,36 @@ collaborate in a reproducible way, model data structures and wrangle data, and c
 * [Lectures/Slides](http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/)
   * The lecture notes are of very good quality.
 * [Assignments](http://www.cs.northwestern.edu/~ddowney/courses/349_Spring2018/)
+
+
+[STAT 365/665](http://euler.stat.yale.edu/~tba3/stat665/) **Data Mining and Machine Learning (uses R)** *Yale University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* **Note: The lecture notes and assignments of the course are of very good quality**
+
+* [Other course by Taylor Arnold](http://statsmaths.github.io/)
+
+* [Syllabus](http://euler.stat.yale.edu/~tba3/stat665/syllabus/ML2016_Syllabus.pdf)
+* [Lectures/Slides](http://euler.stat.yale.edu/~tba3/stat665/)
+  * The lecture notes are of very good quality.
+* [Assignments](http://euler.stat.yale.edu/~tba3/stat665/)
+
+[TJ-ML](https://tjmachinelearning.com/index.html) **TJHSST Machine Learning** *Thomas Jefferson High School * ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+* TJHSST Machine Learning Club aims to bring the complex and vast topic of machine learning to high school students. We teach a variety of topics, including SVMs, Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, and more.
+
+**Note: Great Initiative, that too from High School students [@Mihir Patel](https://github.com/mvpatel2000)**
+
+
+* [Syllabus](https://tjmachinelearning.com/schedule.html)
+* [Lectures/Slides](https://tjmachinelearning.com/schedule.html)
+* [Resources](https://tjmachinelearning.com/resources.html)
+* [Projects](https://tjmachinelearning.com/projects.html)
+
+
+
+
+
+
 
 
 
