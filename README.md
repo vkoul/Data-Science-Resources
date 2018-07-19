@@ -31,10 +31,10 @@ Hope you find this list useful.
 *David Dalpiaz - University of Illinois- UC*
 
 * [**R Companion to Statistics: Unlocking the Power of Data Book**](https://github.com/rpruim/Lock5withR) 
-*Randall Pruim and Lana Park*
+*Lock, Lock, Lock, Lock, and Lock*
 
 * [**R Companion to Introduction to Statistical Investigations (Preliminary Edition)**](https://github.com/rpruim/ISIwithR) 
-*Randall Pruim and Lana Park*
+*Nathan Tintle et al *
 
 * [**Introduction to the Practice of Statistics (6th edition) in R**](https://nhorton.people.amherst.edu/ips6e/) 
 *Nicholas Horton and Ben Baumer*
