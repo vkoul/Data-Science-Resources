@@ -19,6 +19,8 @@ Hope you find this list useful.
 
 ### Statistics Books
 
+* [**Stats without Tears**](https://brownmath.com/swt/) *Stan Brown* 
+
 * [**Introduction to Probability and Statistics Using R**](http://ipsur.org/) *G. Jay Kerns- Youngstown State University* 
 
 * [**Theory Meets Data**](http://prob140.org/assets/tmd_11_18_2017.pdf) *Ani Adhikari- Univ. of California Berkeley* 
@@ -165,6 +167,16 @@ The emphasis on simulation and the bootstrap in Data 8 gives students a concrete
 * [Assignments](http://prob140.org/)
 
 
+[CS 109](http://web.stanford.edu/class/cs109/) **Probability for Computer Scientists** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+* The class starts by providing a fundamental grounding in combinatorics, and then quickly moves into the basics of probability theory. We will then cover many essential concepts in probability theory, including particular probability distributions, properties of probabilities, and mathematical tools for analyzing probabilities. Finally, the last third of the class will focus on data analysis and Machine Learning as a means for seeing direct applications of probability in this exciting and quickly growing subfield of computer science.
+
+* [Syllabus](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html)
+* [Textbook](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html) 
+* [Lectures/Slides](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html)
+* [Assignments](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html)
+
+
+
 [DS 101](http://web.stanford.edu/class/stats101/) **Data Science 101** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
 
 * The course provides a solid introduction to data science, both exposing students to computational tools they can proficently use to analyze data and exploring the conceptual challenges of inferential reasoning. Each module/week represents a new “data adventure,” analyzing real datasets, exploring different questions and trying out tools.
@@ -191,6 +203,19 @@ The emphasis on simulation and the bootstrap in Data 8 gives students a concrete
 * [Syllabus](http://statweb.stanford.edu/~sabatti/Stat48/index.html)
 * [Lectures/Slides](http://statweb.stanford.edu/~sabatti/Stat48/index.html)
 * [Assignments](http://statweb.stanford.edu/~sabatti/Stat48/homework.html)
+
+
+[MS&E 226](http://web.stanford.edu/class/msande226/) **Small Data** *Stanford University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+*  This course is about understanding “small data”: these are datasets that allow interaction, visualization, exploration, and analysis on a local machine. The material provides an introduction to applied data analysis, with an emphasis on providing a conceptual framework for thinking about data from both statistical and machine learning perspectives. Topics will be drawn from the following list, depending on time constraints and class interest: approaches to data analysis: statistics (frequentist, Bayesian) and machine learning; binary classification; regression; bootstrapping; causal inference and experimental design; multiple hypothesis testing.
+
+* [Syllabus](http://web.stanford.edu/class/msande226/226_syllabus_2017.pdf)
+* [Lectures/Slides](http://web.stanford.edu/class/msande226/l_notes.html)
+* [Datasets](http://web.stanford.edu/class/msande226/datasets.html)
+
+
+
+
 
 
 [DS100](http://www.ds100.org/fa17/) **Principles and Techniques of Data Science** *UC- Berkley* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
@@ -418,12 +443,17 @@ collaborate in a reproducible way, model data structures and wrangle data, and c
 
 **Note: Great Initiative, that too from High School students [@Mihir Patel](https://github.com/mvpatel2000)**
 
-
 * [Syllabus](https://tjmachinelearning.com/schedule.html)
 * [Lectures/Slides](https://tjmachinelearning.com/schedule.html)
 * [Resources](https://tjmachinelearning.com/resources.html)
 * [Projects](https://tjmachinelearning.com/projects.html)
 
+
+[SIGIL](http://www.stefan-evert.de/SIGIL/sigil_R/) **Statistical Analysis of Corpus Data with R** *Postdam University* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+
+* [Lectures/Slides](http://www.stefan-evert.de/SIGIL/sigil_R/)
+* [Assignments](http://www.stefan-evert.de/SIGIL/sigil_R/#exercises)
 
 
 
