@@ -41,6 +41,8 @@ Hope you find this list useful.
 * [**Introduction to the Practice of Statistics (6th edition) in R**](https://nhorton.people.amherst.edu/ips6e/) 
 *Nicholas Horton and Ben Baumer*
 
+* [**Introduction to Data Science**](https://ubc-dsci.github.io/introduction-to-data-science/) *This is an open source textbook aimed at introducing undergraduate students to Data Science*
+
 * [**Stats: Data and Models (4th edition) in R**](https://nhorton.people.amherst.edu/sdm4/) *De Veaux, Velleman, and Bock*
 
 * [**ModernDive- An Introduction to Statistical and Data Sciences via R**](http://moderndive.com/) 
