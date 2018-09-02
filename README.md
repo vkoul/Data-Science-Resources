@@ -144,6 +144,22 @@ Hope you find this list useful.
 
 * [**aRrgh:a newcomer’s (angry) guide to R**](http://arrgh.tim-smith.us/) 
 
+
+### CheatSheets
+
+* [**Probability cheatsheet**](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) *Shervine Amidi*
+
+* [**Statistics cheatsheet**](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics) *Shervine Amidi*
+
+* [**Distribution Tables cheatsheet**](https://stanford.edu/~shervine/teaching/cme-106/distribution-tables) *Shervine Amidi*
+
+* [**Key Concepts Explained- Stats**](https://stanford.edu/~shervine/teaching/cme-106/key-concepts) *Shervine Amidi*
+
+* [**Machine Learning tips and tricks cheatsheet**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) *Shervine Amidi*
+
+* [**Deep Learning cheatsheet**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning) *Shervine Amidi*
+
+
 ***
 
 ## Courses <a name="course"></a>
