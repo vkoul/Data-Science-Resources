@@ -474,6 +474,18 @@ collaborate in a reproducible way, model data structures and wrangle data, and c
 * [Assignments](http://www.stefan-evert.de/SIGIL/sigil_R/#exercises)
 
 
+[CIS 419/519](https://www.seas.upenn.edu/~cis519/spring2018/index.html) **Applied Machine Learning- Spring 2018** *UPenn Engineering* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+
+This course will introduce some of the key machine learning methods that have proved valuable and successful in practical applications. We will discuss some of the foundational questions in machine learning in order to get a good understanding of the basic issues in this area, and present the main paradigms and techniques needed to obtain successful performance in application areas such as natural language and text understanding, speech recognition, computer vision, data mining, adaptive computer systems and others. The main body of the course will review several supervised and (semi/un)supervised learning approaches. These include methods for learning linear representations, decision-tree methods, Bayesian methods, kernel based methods and neural networks methods, as well as clustering, dimensionality reduction and reinforcement learning methods.
+
+* [Syllabus](https://www.seas.upenn.edu/~cis519/spring2018/syllabus.html)
+* [Lectures/Slides](https://www.seas.upenn.edu/~cis519/spring2018/syllabus.html)
+* [Homeworks](https://www.seas.upenn.edu/~cis519/spring2018/homework.html)
+* [Resources](https://www.seas.upenn.edu/~cis519/spring2018/resources.html)
+* [Resources2](http://penndsg.com/resources/)
+
+
+
 
 
 
