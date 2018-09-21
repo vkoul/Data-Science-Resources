@@ -159,6 +159,11 @@ Hope you find this list useful.
 
 * [**Deep Learning cheatsheet**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning) *Shervine Amidi*
 
+* [**ML cheatsheet**](https://github.com/remicnrd/ml_cheatsheet) *Rémi Canard*
+
+
+
+
 
 ***
 
