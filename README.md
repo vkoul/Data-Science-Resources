@@ -161,6 +161,14 @@ Hope you find this list useful.
 
 * [**ML cheatsheet**](https://github.com/remicnrd/ml_cheatsheet) *Rémi Canard*
 
+* [**Stats cheatsheet**](https://github.com/vkoul/DataScienceResources/blob/master/Stats_CheatSheet.pdf) *CSE 103*
+
+* [**Data Science cheatsheet**](https://github.com/vkoul/DataScienceResources/blob/master/data-science-cheatsheet.pdf) *Maverick Lin*
+
+* [**Super VIP ML cheatsheet**](https://github.com/vkoul/DataScienceResources/blob/master/super-cheatsheet-machine-learning.pdf) *Afshine Amidi and Shervine Amidi*
+
+
+
 
 
 
