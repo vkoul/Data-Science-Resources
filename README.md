@@ -50,6 +50,8 @@ Hope you find this list useful.
 
 * [**Principles of Econometrics with  R**](https://bookdown.org/ccolonescu/RPoE4//) *Constantin Colonescu*
 
+* [**Introduction to Econometrics with R- using Stock and Watson**](https://www.econometrics-with-r.org/) *Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer*
+
 * [**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
 *Rob J Hyndman and George Athanasopoulos - Monash University*
 
@@ -88,6 +90,9 @@ Hope you find this list useful.
 * [**Text Mining with R**](http://tidytextmining.com/) *Julia Silge and David Robinson - StackOverflow*
 
 * [**The Little Book of LDA**](https://ldabook.com/index.html) *Chris Tufts - StackOverflow*
+
+* [**Deep Learning Book Series**](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/) *Hadrien J.- PhD Student*
+
 
 
 ### DataViz Books
@@ -166,11 +171,6 @@ Hope you find this list useful.
 * [**Data Science cheatsheet**](https://github.com/vkoul/DataScienceResources/blob/master/data-science-cheatsheet.pdf) *Maverick Lin*
 
 * [**Super VIP ML cheatsheet**](https://github.com/vkoul/DataScienceResources/blob/master/super-cheatsheet-machine-learning.pdf) *Afshine Amidi and Shervine Amidi*
-
-
-
-
-
 
 
 ***
@@ -291,6 +291,13 @@ The emphasis on simulation and the bootstrap in Data 8 gives students a concrete
 * [Syllabus](http://stat385.thecoatlessprofessor.com/syllabus/)
 * [Lectures/Slides](http://stat385.thecoatlessprofessor.com/schedule/)
 * [Assignments](http://stat385.thecoatlessprofessor.com/schedule/)
+
+[MY472](https://lse-my472.github.io/) **Data for Data Scientists** *LSE* ![lecture](lecture.png) ![readings](reading.png)
+* This course will cover the principles of digital methods for storing and structuring data, including data types, relational and non-relational database design, and query languages. Students will learn to build, populate, manipulate and query databases based on datasets relevant to their fields of interest
+
+* [Syllabus](https://lse-my472.github.io/)
+* [Lectures/Slides](https://lse-my472.github.io/)
+* [Assignments](https://lse-my472.github.io/)
 
 
 [STAT 149](http://www.markirwin.net/stat149/) **Generalized Linear Models** *Harvard University* ![lecture](lecture.png) ![readings](reading.png)
