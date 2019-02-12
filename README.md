@@ -5,6 +5,7 @@ There are many wonderful resources which Professors have put up online and this 
 
 Hope you find this list useful. 
 
+
 ***
 
 # Table of Contents
@@ -187,7 +188,7 @@ Hope you find this list useful.
 
 
 
-[PROB 140](http://prob140.org/) **Probability for Data Science** *UC- Berkeley* ![lecture](lecture.png) ![readings](reading.png) ![assignments](assignments.png)
+[PROB 140](http://prob140.org/) **Probability for Data Science** *UC- Berkeley* :memo: :book: :computer:
 
 * Prob 140 (formally Statistics 140 or STAT 140) is a probability course for undergraduates who have taken Data 8, have a math background, and wish to go deeper into the theory of data science.
 The emphasis on simulation and the bootstrap in Data 8 gives students a concrete sense of randomness and sampling variability. Prob 140 will capitalize on this. Because of the students’ backgrounds, Prob 140 will move swiftly over basics, avoid approximations that are unnecessary when SciPy is at hand, and replace some of the routine calculus by symbolic math done in SymPy. This will create time to focus on the more demanding concepts that are part of the theoretical foundations of data science.
