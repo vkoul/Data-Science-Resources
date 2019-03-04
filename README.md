@@ -49,6 +49,8 @@ Hope you find this list useful.
 * [**ModernDive- An Introduction to Statistical and Data Sciences via R**](http://moderndive.com/) 
 *Chester Ismay and Albert Y. Kim - DataCamp and  Amherst College*
 
+* [**An R-companion for Statistics for Business: Decision Making and Analysis**](http://www-stat.wharton.upenn.edu/~stine/r_companion/_book/index.html) *Robert A Stine- UPenn*
+
 * [**Principles of Econometrics with  R**](https://bookdown.org/ccolonescu/RPoE4//) *Constantin Colonescu*
 
 * [**Introduction to Econometrics with R- using Stock and Watson**](https://www.econometrics-with-r.org/) *Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer*
