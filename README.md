@@ -121,6 +121,10 @@ Hope you find this list useful.
 
 * [**Sociospatial Data Science**](https://chris-prener.github.io/SSDSBook/) *Christopher Prener, Ph.D.*
 
+* [**Statistical Thinking for the 21st Century**](http://statsthinking21.org/) *Russell A. Poldrack*
+
+* [**Data Science for Startups**](https://bgweber.github.io/) *Ben G Weber*
+
 
 
 
@@ -141,6 +145,9 @@ Hope you find this list useful.
 * [**Efficient R programming**](https://csgillespie.github.io/efficientR/) *Colin Gillespie and Robin Lovelace- Newcastle University and Leeds Institute for Transport Studies*
 
 * [**Pack YouR Code**](http://www.gastonsanchez.com/packyourcode/) *Gaston Sanchez- University of California Berkley*
+
+* [**Introduction to Open Data Science**](http://ohi-science.org/data-science-training/) *Ocean Health Index Team*
+
 
 ### Other R resources
 
