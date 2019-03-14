@@ -58,6 +58,9 @@ Hope you find this list useful.
 * [**Forecasting: Principles and Practice**](http://otexts.org/fpp2/) 
 *Rob J Hyndman and George Athanasopoulos - Monash University*
 
+* [**Statistical Rethinking with brms, ggplot2, and the tidyverse**](https://bookdown.org/connect/#/apps/1850/access) 
+*A Solomon Kurz*
+
 * [**Causal Inference Book- Draft**](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) 
 *Miguel Hernan and Jamie Robins - Harvard University*
 
