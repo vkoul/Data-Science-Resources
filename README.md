@@ -12,7 +12,10 @@ Hope you find this list useful.
 
 * [Data Science/Statistics Books](#book) :books:
 
+* [Cheatsheets](#cheat) :key:
+
 * [Courses](#course) :computer:
+
 
 ***
 
@@ -176,9 +179,11 @@ Hope you find this list useful.
 
 </details>
 
+***
+## Cheatsheets <a name="cheat"></a> :key:
 
 <details>
- <summary> <b>  Cheatsheets :key: </b>  </summary>
+ <summary> <b>  Click to expand! </b>  </summary>
 
 * [**Probability cheatsheet**](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) *Shervine Amidi*
 
@@ -204,8 +209,10 @@ Hope you find this list useful.
 
 ***
 
+## Courses <a name="course"></a> :school: :computer:
+
 <details>
- <summary> <b>  Courses <a name="course"></a> :school: :computer: </b>  </summary>
+ <summary> <b>  Click to expand! </b>  </summary>
 
 
 [**R Studio Online Tutorials**](https://www.rstudio.com/online-learning/) 
