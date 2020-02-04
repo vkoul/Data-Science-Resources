@@ -18,9 +18,10 @@ Hope you find this list useful.
 
 ## Data Science/Statistics Books <a name="book"></a> :books:
 
-### Statistics Books :book:
-
-* [**Stats without Tears**](https://brownmath.com/swt/) *Stan Brown* 
+<details>
+ <summary> <b> Statistics Books :book: </b>  </summary>
+ 
+ * [**Stats without Tears**](https://brownmath.com/swt/) *Stan Brown* 
 
 * [**Introduction to Probability and Statistics Using R**](http://ipsur.org/) *G. Jay Kerns- Youngstown State University* 
 
@@ -67,9 +68,11 @@ Hope you find this list useful.
 * [**Computational and Inferential Thinking- (Python based)**](https://www.inferentialthinking.com/chapters/intro) 
 *Ani Adhikari and John DeNero - UC- Berkeley*
 
+</details>
 
 
-### Machine Learning Books :book:
+<details>
+ <summary> <b> Machine Learning Books :book: </b>  </summary>
 
 * [**An Introduction to Machine Learning with R**](https://lgatto.github.io/IntroMachineLearningWithR/index.html) 
  *Laurent Gatto*
@@ -99,9 +102,11 @@ Hope you find this list useful.
 
 * [**Deep Learning Book Series**](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/) *Hadrien J.- PhD Student*
 
+</details>
 
+<details>
+ <summary> <b>  DataViz Books :book: </b>  </summary>
 
-### DataViz Books :book:
 
 * [**Fundamentals of Data Visualization**](http://serialmentor.com/dataviz/) *Claus O. Wilke*
 
@@ -111,8 +116,12 @@ Hope you find this list useful.
 
 * [**Visual Statistics**](https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf) *Alexey Shipunov*
 
+</details>
 
-### R in Other Fields
+
+<details>
+ <summary> <b>  R in Other Fields :book: </b>  </summary>
+
 
 * [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
 
@@ -128,10 +137,11 @@ Hope you find this list useful.
 
 * [**Data Science for Startups**](https://bgweber.github.io/) *Ben G Weber*
 
+</details>
 
 
-
-### R Tool Books :book:
+<details>
+ <summary> <b>   R Tool Books :book: </b>  </summary>
 
 * [**An Introduction to R**](https://cran.r-project.org/doc/manuals/R-intro.pdf) *W. N. Venables, D. M. Smith and the R Core Team*
 
@@ -151,8 +161,10 @@ Hope you find this list useful.
 
 * [**Introduction to Open Data Science**](http://ohi-science.org/data-science-training/) *Ocean Health Index Team*
 
+</details>
 
-### Other R resources
+<details>
+ <summary> <b>  Other R resources </b>  </summary>
 
 * [**R user group Oxford**](https://r-oxford.github.io/): Dedicated to bringing together area practitioners of R to exchange knowledge, inspire new users, and spur the adoption of R for innovative research and commercial applications.  
 
@@ -162,8 +174,11 @@ Hope you find this list useful.
 
 * [**aRrgh:a newcomer’s (angry) guide to R**](http://arrgh.tim-smith.us/) 
 
+</details>
 
-### CheatSheets
+
+<details>
+ <summary> <b>  Cheatsheets :key: </b>  </summary>
 
 * [**Probability cheatsheet**](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability) *Shervine Amidi*
 
@@ -185,10 +200,13 @@ Hope you find this list useful.
 
 * [**Super VIP ML cheatsheet**](https://github.com/vkoul/DataScienceResources/blob/master/super-cheatsheet-machine-learning.pdf) *Afshine Amidi and Shervine Amidi*
 
+</details>
 
 ***
 
-## Courses <a name="course"></a> :computer:
+<details>
+ <summary> <b>  Courses <a name="course"></a> :school: :computer: </b>  </summary>
+
 
 [**R Studio Online Tutorials**](https://www.rstudio.com/online-learning/) 
 
@@ -513,7 +531,7 @@ This course will introduce some of the key machine learning methods that have pr
 * [Resources](https://www.seas.upenn.edu/~cis519/spring2018/resources.html)
 * [Resources2](http://penndsg.com/resources/)
 
-
+</details>
 
 
 
