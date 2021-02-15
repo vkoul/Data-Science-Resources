@@ -1,21 +1,21 @@
-# Data Science Resource List :clipboard:  [![HitCount](http://hits.dwyl.com/vkoul/Data-Science-Resources.svg)](http://hits.dwyl.com/vkoul/Data-Science-Resources)
+![GitHub Repo stars](https://img.shields.io/github/stars/vkoul/Data-Science-Resources?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/vkoul/Data-Science-Resources?style=for-the-badge)
+
+# Data Science Resource List :clipboard:  
 
 Learning new things has become more accesible now due to the plethora of material available online. This is particularly the case for Data Science and Machine Learning. Since I got interested in the field, I have come across a huge amount of learning material which I found immensely useful. This is an attempt to put them togther and make it accesible to others.    
 There are many wonderful resources which Professors have put up online and this is an attempt to catalogue these awesome resources. It also has been done by Prakhar on[`Github`](https://github.com/prakhar1989/awesome-courses), which is suited to `Software Engineering`, so the below list is an attempt to list down resources  pertaining to `Data Science` and focussed more on `R` software language. I plan to add more Python Material going forward. Hope you find this list useful. 
 
-Made with :heart: by Vikesh. Say Hi!:wave:
-[Twitter :bird:](https://twitter.com/vikesh_koul)
-[Linkedin :postbox:](https://www.linkedin.com/in/vikeshkoul/)
-
+Made with :heart: by Vikesh. Say Hi!:wave:  
+![Twitter Follow](https://img.shields.io/twitter/follow/vikesh_koul?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/vikeshkoul/)
 ***
 
-# Table of Contents
+# Content
 
-* [Data Science/Statistics Books](#book) :books:
 
-* [Cheatsheets](#cheat) :key:
-
-* [Courses](#course) :computer:
+| [Data Science/Statistics Books](#book) :books:  	| [Cheatsheets](#cheat) :key:  	| [Courses](#course) :computer:	|
+|---	|---	|---	|
 
 
 ***
