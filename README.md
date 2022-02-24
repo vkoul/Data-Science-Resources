@@ -223,6 +223,8 @@ Made with :heart: by Vikesh. Say Hi!:wave:
 [**Courses taught by Hadley Wickham**](http://courses.had.co.nz/) *H. Wickham*
 
 [**Statistics courses offered in Harvard**](https://statistics.fas.harvard.edu/statistics-courses) *Harvard University*
+ 
+[**Complete Data Science Course**](https://www.scaler.com/data-science-course/) Scaler
 
 
 
